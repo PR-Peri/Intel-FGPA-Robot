@@ -1,4 +1,4 @@
-# IntelFGPA_Robot
+# Intel FGPA_Robot
 An obstacle avoiding robot and the code was developed using intel VHDL.
 
 Robot tools ->
