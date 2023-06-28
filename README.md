@@ -1,6 +1,9 @@
 # Intel FGPA_Robot
-An obstacle avoiding robot and the code was developed using intel VHDL.
-
+<li >An obstacle avoiding robot and the code was developed using intel VHDL.
+    <a href="https://pr-peri.github.io/2020/07/23/robot-vhdl.html" title="Link to GitHub Repository">
+        [Link to Article]
+    </a>
+</li>
 Robot tools ->
 
 Basic Equiments : wires & arcylic base.
